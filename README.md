@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Anamaria
+### Hi there 👋, my name is Anamaria ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQEH-qxXhMGS7g/profile-displaybackgroundimage-shrink_200_800/0/1652146584253?e=1658361600&v=beta&t=zRRUCaZcrM-E-O_pWOhkD3n-vRhiienhwWz_ho2EbI0)
 
 

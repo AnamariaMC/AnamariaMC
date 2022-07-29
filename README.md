@@ -5,7 +5,7 @@
 
 Skills: JS / REACT / HTML / CSS
 
-- 🔭 I’m currently working on Burger-Queen API 
+- 🔭 I’m currently working on Khipu (Notes app)
 - 🌱 I’m currently learning React 
 - ⚡ Fun fact: I love Harry Potter 
 - 📫 Contact me: anymedinac14@gmail.com 
